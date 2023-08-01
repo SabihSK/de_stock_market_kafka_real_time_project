@@ -1,0 +1,4 @@
+confluent-kafka
+kafka-python
+pandas
+s3fs
